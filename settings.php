@@ -10,7 +10,7 @@ session_start();
 $host = "localhost";
 $dbname = "dcp_b3_employes";
 $login = "root";
-$password = "root"; // à modifier si sous windows ou MAC
+$password = ""; // à modifier si sous windows ou MAC
 
 //Connexion
 $pdo = new PDO(
