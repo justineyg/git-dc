@@ -1,3 +1,8 @@
+<?php //index.php
+
+require_once('settings.php');
+
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
