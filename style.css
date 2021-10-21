@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+<<<<<<< HEAD
 ul{
     display: flex;
 }
@@ -14,5 +15,13 @@ li{
 }
 
 h1{
+=======
+h1 {
+>>>>>>> cdc0042b1e9095c437da8581ef366e769a68bd95
     color: crimson;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
 }
