@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+ul{
+    display: flex;
+}
+
+li{
+    list-style-type: none;
+    margin: 10px 30px;
+}
+
 h1{
     color: crimson;
 }
