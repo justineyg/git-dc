@@ -7,6 +7,7 @@
     <title>Site Employés</title>
 </head>
 <body>
+    <?php include('menu.php'); ?>
     <h1>Test bonjour hahaha</h1>
 </body>
 </html>
